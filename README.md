@@ -75,5 +75,5 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <!-- Contribution Activity Graph -->
 <h3 align="center">📈 Activity Graph</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadhavkrishnasb&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=yadhavkrishnasb&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
