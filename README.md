@@ -43,11 +43,11 @@ My goal is simple: write clean code, build reliable software, and grow into a so
     <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/yadhav-krishna" target="_blank">
+  <a href="https://www.linkedin.com/in/yadhav-krishna" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="yadhavkrishna0810@gmail.com">
+  <a href="mailto:yadhavkrishna0810@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="42" height="42" alt="Gmail" />
   </a>
 </div>
