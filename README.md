@@ -69,3 +69,10 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yadhavkrishnasb&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yadhavkrishnasb/yadhavkrishnasb/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yadhavkrishnasb/yadhavkrishnasb/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yadhavkrishnasb/yadhavkrishnasb/output/github-snake.svg" />
+</picture>
