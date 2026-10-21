@@ -69,11 +69,3 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yadhavkrishnasb&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
----
-
-<!-- Contribution Activity Graph -->
-<h3 align="center">📈 Activity Graph</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadhavkrishnasb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub Stats" />
-</div>
