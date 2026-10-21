@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://github.com/yadhavkrishnasb/yadhavkrishnasb/blob/main/45a6326bd7324efc869217afebace9a0.jpg?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/yadhavkrishnasb/yadhavkrishnasb/blob/main/7b871cee4ff324b9cc17ea028b4074ce.jpg?raw=true" alt="Banner" width="100%" />
 </div>
 
 <br />
