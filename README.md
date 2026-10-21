@@ -24,7 +24,7 @@
 
 <img align="right" src="https://github.com/yadhavkrishnasb/yadhavkrishnasb/blob/main/loop.gif?raw=true" width="260" alt="Pixel Art" />
 
-**Yadhav**, Here — a Computer Science student focused on backend development and cloud architecture.
+**Yadhav**, Here — a Computer Technology student focused on backend development and cloud architecture.
 
 I enjoy building scalable, production-ready APIs and continuously improving my understanding of real-world backend systems.
 
