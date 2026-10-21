@@ -6,7 +6,7 @@
 <br />
 
 <!-- Header & Typing Animation -->
-<h1 align="center">Hi 👋, Imma Yadhav</h1>
+<h1 align="center">Hi 👋, I'm Yadhav Krishna</h1>
 <h3 align="center">Backend Developer</h3>
 
 <div align="center">
